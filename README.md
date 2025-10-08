@@ -3,8 +3,11 @@
 Oracle Database Task Report
 
 Student Name: TETA HUGUETTE
+
 Student ID: 28982
+
 Course: PL/SQL DATABSE DEVELOPMENT
+
 Assignment: Database Creation, Deletion, and OEM Configuration
 
 
