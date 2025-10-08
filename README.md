@@ -15,10 +15,13 @@ Overview of Tasks
 Task 1: Create a New Pluggable Database (PDB)
 
 Created a PDB named: hu_pdb_28982
+
 Created a user to store class work: huguette_plsqlauca_28982
+
 Password: teta(simple password chosen)
 
 Verified that the database was OPEN by ; 
+
 SQL> select status from v$instance;
 -----------------------------------------------------------
 Task 2: Create and Delete a PDB
@@ -26,9 +29,11 @@ Task 2: Create and Delete a PDB
 Created a second PDB named: hu_to_delete_pdb_2025108
 
 Verified creation using:
+
 SHOW pdbs;
 
 Deleted the second PDB after verification:
+
 SQL> DROP PLUGGABLE DATABASE hu_to_delete_pdb_28982 INCLUDING DATAFILES;
 
 Screenshots were taken for both creation and deletion.
