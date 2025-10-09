@@ -12,6 +12,7 @@ Assignment: Database Creation, Deletion, and OEM Configuration
 
 
 Overview of Tasks
+
 Task 1: Create a New Pluggable Database (PDB)
 
 Created a PDB named: hu_pdb_28982
