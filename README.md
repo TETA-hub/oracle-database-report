@@ -40,3 +40,13 @@ SQL> DROP PLUGGABLE DATABASE hu_to_delete_pdb_28982 INCLUDING DATAFILES;
 Screenshots were taken for both creation and deletion.
 -----------------------------------------------------------
 Task 3: Configure Oracle Enterprise Manager (OEM)
+
+I configured Oracle Enterprise Manager (OEM) to manage and monitor my pluggable databases.
+After completing Tasks 1 and 2
+
+I accessed the OEM dashboard and  my database appeared with my username.
+
+✅ Conclusion
+
+All three tasks (creation, deletion, and OEM setup) were completed successfully using Oracle 19c.
+All commands were tested in SQL*Plus and verified via screenshots.
